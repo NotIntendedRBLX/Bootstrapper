@@ -1,0 +1,9 @@
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\calvity.exe
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\calvity.dll
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\calvity.deps.json
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\calvity.runtimeconfig.json
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\calvity.pdb
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\Serilog.dll
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\Serilog.Sinks.Console.dll
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\Serilog.Sinks.File.dll
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\ICSharpCode.SharpZipLib.dll

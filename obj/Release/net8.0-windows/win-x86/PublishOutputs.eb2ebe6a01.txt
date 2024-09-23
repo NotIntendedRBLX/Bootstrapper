@@ -1,0 +1,2 @@
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\win-x86\calvity.pdb
+C:\Users\semicolon\Desktop\Bootstrapper_Moonic\bin\Release\net8.0-windows\publish\win-x86\calvity.exe
